@@ -62,8 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AgentMover.cs" />
-    <Compile Include="Assets\Scripts\AIMotor.cs" />
     <Compile Include="Assets\Scripts\ButtonBehaviour.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CameraController1.cs" />
