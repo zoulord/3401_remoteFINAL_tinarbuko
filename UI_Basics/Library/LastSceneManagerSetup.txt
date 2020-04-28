@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FINAL PROJECT UI.unity
+- path: Assets/Scenes/TinarbukoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
