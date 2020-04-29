@@ -57,13 +57,14 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Chagas.cs" />
      <Compile Include="Assets\Script\DogandCuimove.cs" />
+     <Compile Include="Assets\Script\IncreaseScore.cs" />
      <Compile Include="Assets\Script\Obstaclespawner.cs" />
-     <Compile Include="Assets\Script\increaseScore.cs" />
-     <Compile Include="Assets\Script\score.cs" />
+     <Compile Include="Assets\Script\TapScore.cs" />
      <Compile Include="Assets\Scripts\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CameraController1.cs" />
      <Compile Include="Assets\Scripts\LoadScene.cs" />
+     <Compile Include="Assets\Scripts\Score.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
