@@ -57,40 +57,40 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Chagas.cs" />
      <Compile Include="Assets\Script\DogandCuimove.cs" />
-     <Compile Include="Assets\Script\IncreaseScore.cs" />
      <Compile Include="Assets\Script\Obstaclespawner.cs" />
      <Compile Include="Assets\Script\TapScore.cs" />
+     <Compile Include="Assets\Script\increaseScore.cs" />
      <Compile Include="Assets\Scripts\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CameraController1.cs" />
      <Compile Include="Assets\Scripts\LoadScene.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_week5_tinarbuko/UI_Basics/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/zulhiczar.ie/Documents/GitHub/3401_remoteFINAL_tinarbuko/UI_Basics/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.7f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
