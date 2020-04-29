@@ -55,7 +55,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Bug.cs" />
      <Compile Include="Assets\Script\Chagas.cs" />
      <Compile Include="Assets\Script\DogandCuimove.cs" />
      <Compile Include="Assets\Script\IncreaseScore.cs" />
